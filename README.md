@@ -8,5 +8,5 @@ In this project, I assume myself as a Data Analyst of a global IT and business c
 This project provides audience information about what programming languages, databases, platforms, and web frames developers are using and are expecting to develop in the future. In this project, I used Python programming language, its libraries such as Pandas, NumPy, Matplotlib, and Seaborn as tools for wrangling, exploratory analyzing, and visualizing data. Furthermore, I also utilized SQL queries to help with a few visualizations. To summarize data into a dashboard, I used IBM Cognos Analytics and Microsoft PowerPoint. Overall, in the visualization process, there were many null values; and I have had to exclude them in the dashboards.
 
 **Acknowledgements**
-
+Beyonce...
 
